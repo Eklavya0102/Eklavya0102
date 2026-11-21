@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ## 👋 Hi, I'm Eklavya Chaudhary!<br><br>- 🎓 Pursuing B.Tech in Computer Science Engineering (CSE Core).<br>- 💡 Interested in software development and full-stack application development.<br>- 🛠️ Building projects using Python, Java, C++,C,C# JavaScript, and modern web technologies.<br>- 🌐 Exploring React.js, Flask, databases, APIs, and backend development.<br>- 📱 Interested in mobile app development with Flutter and Android Studio.<br>- 🧠 Constantly learning new technologies and improving my problem-solving skills.<br>- 🤝 Open to collaborating on interesting projects, hackathons, and open-source contributions.<br><br><br>### 🎯 My Goal<br>To become a skilled software developer by building meaningful projects, learning continuously, and collaborating with developers who love creating innovative solutions.<br><br>*"Learn continuously. Build consistently. Grow together."* 🚀
 
 
